@@ -41,10 +41,10 @@ namespace ClassMetotDemoo
             }
 
 
-            MusteriManager musteridüuzenleme = new MusteriManager();
-            musteridüuzenleme.Ekle(musteri1);
-            musteridüuzenleme.Guncelleme(musteri2);
-            musteridüuzenleme.Silme(musteri3);
+            MusteriManager musteriDuzenleme = new MusteriManager();
+            musteriDuzenleme.Ekle(musteri1);
+            musteriDuzenleme.Guncelleme(musteri2);
+            musteriDuzenleme.Silme(musteri3);
         }
     }
     
